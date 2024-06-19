@@ -13,6 +13,6 @@
   "dependencies": {
     "express": "^4.19.2",
     "inquirer": "^8.2.4",
-    "pg": "^8.11.5"
+    "pg": "^8.12.0"
   }
 }
